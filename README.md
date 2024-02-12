@@ -29,7 +29,7 @@ This will install the necessary dependencies, including TensorFlow, Matplotlib, 
 4. Start Jupyter Notebook:
 
 ```bash
-jupyter noteboo
+jupyter notebook
 ```
 Open and run the image_classification.ipynb notebook to train and evaluate the CNN model. 
 
