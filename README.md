@@ -35,4 +35,4 @@ Open and run the image_classification.ipynb notebook to train and evaluate the C
 
 ## License 
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/usamajavaid390/cnn-image-classification/blob/main/LICENSE) file for details.
